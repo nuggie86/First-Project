@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
-    border: none;
+    border: none;}
 
-}
+
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
@@ -32,7 +32,7 @@ h1,h2{
 }
 
 #menu li{
-    float:right;
+    float:left;
     list-style-type: disc;
     margin-left: 30px;
 }
@@ -65,8 +65,8 @@ h1,h2{
 
 #main-image{
     height: 600px;
-    width:100%;
-    background-image: url(../images/When_Do_Boxers_Stop_Growing.jpg); 
+    width: 100%;
+    background: url(../images/When_Do_Boxers_Stop_Growing.jpg) no-repeat center center; 
 }
 
 #cover-text {
