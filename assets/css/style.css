@@ -88,6 +88,17 @@ h1,h2{
 
     position: absolute;
 }
+/*sign up form*/
+
+.form-section {
+    clear: left;
+    background-size: auto;
+    background-position: center;
+    height: 600px;
+    background: url(../images/boxer-WF.jpg) no-repeat;
+       
+}
+
 /* footer */
 
 footer {
@@ -108,3 +119,4 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
