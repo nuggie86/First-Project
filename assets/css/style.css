@@ -34,14 +34,17 @@ h1,h2{
 }
 
 #menu li{
-    float: right;
+   float: right;
     list-style-type: disc;
     margin-left: 30px;
 }
 
 #menu a {
+    color: #b1aeae;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    color:inherit;
+    font-size: 17px;
 }
 
 #menu, #logo{
@@ -49,11 +52,13 @@ h1,h2{
 }
 
 #menu a:hover{
-    border-bottom: 2px solid #3a3a3a;
+    background-color: #ddd;
+    color: black;
 }
 
 .active{
-    border-bottom: 2px solid #3a3a3a;
+    background-color: #6a7697;
+    color:rgb(172, 172, 172);
 }
 
 /* main page image */
@@ -80,14 +85,12 @@ h1,h2{
     width: 300px;
     height: 200px;
 
-    padding-top: 40px;
     padding-left: 10px;
 
     background-color: rgba(49, 186, 228, 0.7);
 
     bottom: 30px;
-    right: 150px;
-
+    right: 350px;
     position: absolute;
 }
 /*sign up form*/
@@ -123,3 +126,22 @@ footer {
 }
 
 /* Gallery Photos */
+
+
+
+/* Media queries */
+
+/* For large to medium screens sizes from 1200px wide and down */
+@media screen and (max-width: 1200px){
+}
+
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px){
+}
+
+/* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 800px){
+    #photo{
+        column-count: 2;
+    }
+}
