@@ -21,8 +21,10 @@ h1,h2{
 }
 
 #logo{
-    float:left;
-    font-size: 300%;
+   display: block;
+   background-color: #ddd;
+   padding: 25px;
+   font-size: 30px;
 }
 
 /* navigation links*/
@@ -32,7 +34,7 @@ h1,h2{
 }
 
 #menu li{
-    float:left;
+    float: right;
     list-style-type: disc;
     margin-left: 30px;
 }
@@ -121,7 +123,3 @@ footer {
 }
 
 /* Gallery Photos */
-
-#photo {
-    
-}
