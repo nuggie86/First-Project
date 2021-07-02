@@ -9,7 +9,7 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    color: #444444;
+    color: #867f7f;
 }
 
 /* heading and logo*/
@@ -63,14 +63,14 @@ h1,h2{
 /* main page image */
 
 #main-outer{
-    height: 600px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
 #main-image{
-    height: 600px;
+    height: 400px;
     width: 100%;
     background: url(../images/When_Do_Boxers_Stop_Growing.jpg) no-repeat center center; 
 }
@@ -89,17 +89,36 @@ h1,h2{
     background-color: rgba(49, 186, 228, 0.7);
 
     bottom: 30px;
-    right: 500px;
     position: absolute;
 }
 #info{
     display: block;
-    background-color: #ddd;
     padding: 25px;
     font-size: 20px;
     padding-right: 20px;
-}
     
+}
+    /* helpfull links boxes*/
+#boxes{
+    background-image: url(../images/images\ \(5\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#boxes div {
+    color: #fafafa;
+    background-color: rgba(0,0,0, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 5px solid white;
+    box-sizing: border-box;
+}
 
 /*sign up form*/
 
@@ -146,15 +165,15 @@ footer {
 
 /* Media queries */
 
-/* For large to medium screens sizes from 1200px wide and down */
+/* large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
 }
 
-/* For medium screens sizes from 950px wide and down */
+/* medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
 }
 
-/* For small screens sizes from 800px wide and down */
+/* small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px){
     #photo{
         column-count: 2;
@@ -173,13 +192,13 @@ form {
 }
 
 .container {
-    padding: 20px;
+    padding: 10px;
     background-color: rgba(185, 172, 172, 0.6);
 }
 
 input[type=text], input[type=submit] {
     
-    width: 50%;
+    width: 70%;
     padding: 12px;
     margin: 8px 0;
     display: inline-block;
