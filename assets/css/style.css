@@ -109,6 +109,7 @@ h1,h2{
 }
 
 #boxes div {
+    
     color: #fafafa;
     background-color: rgba(0,0,0, .6);
     width: 20%;
@@ -156,7 +157,7 @@ footer {
 /* Gallery Photos */
 #photo {
     clear: both;
-    line-height: 0;
+    line-height: 2;
     column-count: 3;
     column-gap: 0px;
 }
