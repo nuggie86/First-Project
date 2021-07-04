@@ -18,10 +18,16 @@ __information on boxer dogs__
 
 
 __Useful links Boxes__
-
+- In this section of the main page there is five useful links boxs.
+ - They consist of:
+  - [Training your boxer dog](https://www.petassure.com/new-newsletters/tips-for-training-your-pet-boxer/) A useful link with Tips For Training Your Pet Boxer.
+  - [Boxer dog food and nutrition](https://www.dogfoodadvisor.com/best-dog-foods/boxers/) With the best advice on food and nutrition for your boxer dog be it young or old.
+  -[Boxer dog exercise needs](https://barkercise.com/boxer-dog-exercise-guide/) This link has great advice on exercise needs of your boxer dog.
+  -[Toys advised for your boxer dog](https://boxerdogdiaries.com/best-toys-for-boxer-dogs/) This site has a great selection of robust toys that are better suited for the breed.
+  -[Common health problems in Boxers](https://www.pdsa.org.uk/taking-care-of-your-pet/looking-after-your-pet/puppies-dogs/large-dogs/boxer#:~:text=Your%20Boxer%20will%20need%20a,have%20a%20good%20run%20around.) This link gives great infomation into the common issues and health problems that are prone to the breed.
 
 __The Footer__ 
-
+- The footer consists of three social media links, consisting of Facebook, Twitter and Instagram.
  
 __Gallery__
 
