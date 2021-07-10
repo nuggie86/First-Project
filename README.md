@@ -10,6 +10,10 @@ and helpfull links,
 ### Existing Features
 
 __Navigation Bar__
+- Featured on all three pages, the full responsive navigation bar includes links to the, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+
+- This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+
 
 __The landing page image__
 
@@ -58,5 +62,10 @@ The live link can be found here -
 ## Credits 
 
 ### Content
+- The text and information on the home page was acquired form [Hillspet.com](https://www.hillspet.com/dog-care/dog-breeds/boxer)
+- The Facebook, Twitter and Instagram icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
 
 ### Media
+- The photos i used on the home and sign up page are from (www.borrdpanda.com), I also used photos from this site for the gallery page.
+
