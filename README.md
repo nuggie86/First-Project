@@ -40,12 +40,17 @@ __The Sign Up Page__
 
 
 ### Features Left to Implement
+- In the future i would like to add a fourm page where open discutions and connections can be made it breeders and owners.
 
 ## Testing
 
 ### Validator Testing 
 - HTML
   - No errors were returned when passing through the official [W3C validator]
+  - The first time i put the code throught the validator i had 11 faults,
+  - The faults consisted of 6= href faults where i had used 2 href refrances in the same line of code, rectifide be useing only 1 href.
+  - The others were where i had used 4= </p> in the wrong in the text area, fix was removing the </p>, and finaly the <section id-"boxes"> had no heading, fix was gave a h2 heading to the section. 
+
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]
@@ -55,9 +60,9 @@ __The Sign Up Page__
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.   
 
-The live link can be found here -
+The live link can be found here - https://github.com/nuggie86/First-Project
 
 ## Credits 
 

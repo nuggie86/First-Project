@@ -9,7 +9,7 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    color: #867f7f;
+    color: #8f8484;
 }
 
 /* heading and logo*/
@@ -22,7 +22,7 @@ h1,h2{
 
 #logo{
    display: block;
-   background-color: #ddd;
+   background-color: rgb(185, 180, 180);
    font-size: 40px;
 }
 
@@ -39,11 +39,11 @@ h1,h2{
 }
 
 #menu a {
-    color: #acaaaa;
+    color: #ffffff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #menu, #logo{
@@ -155,7 +155,14 @@ footer {
 }
 
 /* Gallery Photos */
+.heading-line {
+    width: 50%;
+    margin: auto;
+    padding-top: 1%;
+    margin-top: 1%;
+}
 #photo {
+    padding-top: 60px;
     clear: both;
     line-height: 2;
     column-count: 3;
