@@ -84,12 +84,12 @@ h1,h2{
     width: 300px;
     height: 200px;
 
-    padding-left: 10px;
-
     background-color: rgba(49, 186, 228, 0.7);
 
     bottom: 30px;
     position: absolute;
+    padding: 20px;
+
 }
 #info{
     display: block;
@@ -106,6 +106,7 @@ h1,h2{
     background-position: center;
     width: 100%;
     overflow: hidden;
+    display: flex;
 }
 
 #boxes div {
@@ -121,6 +122,7 @@ h1,h2{
     box-sizing: border-box;
     font-size: 50px;
     padding: 25px;
+    display: flex;
 }
 
 /*sign up form*/
@@ -178,6 +180,10 @@ footer {
 
 /* large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
+.info {
+    flex-direction: column;
+    padding: 20px;
+}
 }
 
 /* medium screens sizes from 950px wide and down */
