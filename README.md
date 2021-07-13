@@ -47,13 +47,13 @@ __The Sign Up Page__
 ### Validator Testing 
 - HTML
   - No errors were returned when passing through the official [W3C validator]
-  - The first time i put the code throught the validator i had 11 faults,
-  - The faults consisted of 6= href faults where i had used 2 href refrances in the same line of code, rectifide be useing only 1 href.
-  - The others were where i had used 4= </p> in the wrong in the text area, fix was removing the </p>, and finaly the <section id-"boxes"> had no heading, fix was gave a h2 heading to the section. 
-
+  -[home page]()
+  -[gallery page]()
+  -[sign up page]()
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]
+  [style.css](http://jigsaw.w3.org/css-validator/validator$link)
 
 
 ## Deployment
