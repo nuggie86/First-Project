@@ -7,7 +7,7 @@
  body {
      font-family: Lato, sans-serif;
      font-weight: 300;
-     color: #8f8484;
+     color: #000000;
 }
  div {
      display: block;
@@ -38,7 +38,6 @@
      color: rgba(49, 186, 228, 0.7);
      text-align: center;
      padding: 14px 16px;
-     /*text-decoration: none;*/
      font-size: 25px;
      font-weight: bold;
 }
@@ -73,6 +72,9 @@ i.far.fa-clipboard {
      width: 100%;
      background: url(../images/When_Do_Boxers_Stop_Growing.jpg) no-repeat center center;
 }
+ #cover-text-text {
+     color: white;
+ }
  #cover-text {
      font-size: 130%;
      font-family: lato, sans-serif;
@@ -97,9 +99,12 @@ i.far.fa-clipboard {
      width: 100%;
      overflow: hidden;
 }
+ .link-box-text {
+    color: white;
+}
  #boxes div {
      color: #fafafa;
-     background-color: rgba(0,0,0, .6);
+     background-color: rgba(49, 186, 228, 0.7);
      width: 20%;
      height: 300px;
      float: left;
