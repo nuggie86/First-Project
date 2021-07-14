@@ -135,6 +135,9 @@ i.far.fa-clipboard {
      color: #3a3a3a;
 }
 /* Gallery Photos */
+ .gallery-heading{
+     font-size: 20px;
+}
  .heading-line {
      width: 50%;
      margin: auto;
