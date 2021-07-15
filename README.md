@@ -14,6 +14,14 @@ __Navigation Bar__
 
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
+##### User stories
+1. As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
+2. As a new visitor to the website, I want to get infomation on the boxer dog breed like temperment, exercise, history of the breed.
+3. As a new visitor to the website, I want to see gallery images of the dogs to show the different color types and the playful nature of the dog. 
+4. As a potential owner of boxer i would like to see helpful links to possibel information i may need.
+5. As a potential owner of boxer i would like to receve a news letter and would hope to see a sign up page.
+6. as a frequent user of the site i would like to see social media links so i can keep up to date on other platforms.
+ 
 
 __The landing page image__
 
@@ -30,12 +38,13 @@ __Useful links Boxes__
   -[Toys advised for your boxer](https://boxerdogdiaries.com/best-toys-for-boxer-dogs/) This site has a great selection of robust toys that are better suited for the breed.
 __The Footer__ 
 - The footer consists of three social media links, consisting of Facebook, Twitter and Instagram.
+As stated in the user storys it is a added bonus to have the ability to stay connected on othe platforms.
  
 __Gallery__
-
+- On this page i have put eight images depicting the different characteristics of the breed and the different color types, As stated in the user storys its great to see gallery images of this breed of dog in its natural playful temperment. 
 
 __The Sign Up Page__
-
+- On this page i have a background picture of a boxer dog and to the left i have a sign up for a news letter box, In this box you will find a name and email text box area, With a required fill for both.The subscribe button has also a hover affect.As stated in the user storys the ability to sign up to a news is a added bonus to anyone who may be thinking of geting one of theses breed of dogs.
 
 ### Features Left to Implement
 - In the future i would like to add a fourm page where open discutions and connections can be made it breeders and owners.
