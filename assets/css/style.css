@@ -93,11 +93,17 @@ i.far.fa-clipboard {
      font-size: 25px;
      padding-right: 20px;
 }
+/*#info-image{
+    float: right;
+}*/
 /* helpfull links boxes*/
-
+ #links-boxs-heading{
+     padding-left: 25px;
+ }
  #boxes{
      width: 100%;
      overflow: hidden;
+     padding-left: 10%;
 }
  .link-box-text {
     color: white;
@@ -155,6 +161,7 @@ i.far.fa-clipboard {
      line-height: 2;
      column-count: 2;
      column-gap: 0px;
+     padding-left: 20%;
 }
  #photo img{
      width: 100%;

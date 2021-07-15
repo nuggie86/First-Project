@@ -24,10 +24,15 @@ __Navigation Bar__
  
 
 __The landing page image__
-
+- The main landing image consists of an image with five boxer puppys, the image has a white backround whitch contrasts well with the navigation bar and main title, it has a clean, plesent, simplistic look.
 
 __information on boxer dogs__
-
+- The information on boxer dogs section i have four information sections with four images to break up the headings and text.
+- The sections consist of:
+- Boxers are stocky, muscular and powerful:
+- Personality:
+- Living With:
+- History:
 
 __Useful links Boxes__
 - In this section of the main page there is five useful links boxs.
