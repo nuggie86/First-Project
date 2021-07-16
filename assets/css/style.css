@@ -39,6 +39,21 @@ header a {
   margin: 0px;
   margin-left: 10px;
 }
+header ul {
+  list-style: none;
+  margin-left: auto;
+  padding-left: 0px;
+  display: flex;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: flex;
+}
+header li {
+  margin-right: 20px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
 
 /* navigation links*/
 #menu {
