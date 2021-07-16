@@ -30,6 +30,15 @@ header {
   width: 100%;
   display: flex;
 }
+header a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  margin: 0px;
+  margin-left: 10px;
+}
 
 /* navigation links*/
 #menu {
@@ -253,10 +262,25 @@ footer {
     column-count: 1; 
   }
 }
-/*screens sizes from 550px wide and down */
+
 @media screen and (max-width: 550px){
   #action_page {
     margin-left: 10px;
+  }
+}
+/*screens sizes from 538px wide and down */
+@media screen and (max-width: 538px) {
+  header {
+    flex-direction: column;
+  }
+  header ul {
+    margin-top: 10px;
+    margin-left: 0px;
+    justify-content: center;
+    flex-direction: column;
+  }
+  header li {
+    margin: 10px;
   }
 }
 /** sign up box **/
