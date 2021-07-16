@@ -123,7 +123,7 @@ i.far.fa-clipboard {
 /*sign up form*/
 .form-section {
   clear: left;
-  background: url(../images/boxer-WF\rev.jpg) no-repeat;
+  background-image: url(../images/boxer-WF-rev.jpg);
   background-size: cover;
   background-position: center;
   height: 900px;
