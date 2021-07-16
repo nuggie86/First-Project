@@ -8,7 +8,7 @@ and helpful links,
 ## Features 
 
 ### Existing Features
-
+![nav bar image](/assets/images/images-readme.md/nav-bar-image.png)
 __Navigation Bar__
 - Featured on all three pages, the full responsive navigation bar includes links to the Home page, Gallery, and Sign Up page and is identical on each page to allow for easy navigation.
 
@@ -25,7 +25,7 @@ __Navigation Bar__
 
 __The landing page image__
 - The main landing image consists of an image with five boxer puppies, the image has a white background that contrasts well with the navigation bar and main title, it has a clean, pleasant, simplistic look.
-
+![information on boxer dogs image](/assets/images/images-readme.md/main-info-section.png)
 __information on boxer dogs__
 - The information on boxer dogs section I have four information sections with four images to break up the headings and text, As mentioned in the user storys it covers temperament, exercise and history of the breed.
 - The sections consist of:
@@ -33,21 +33,21 @@ __information on boxer dogs__
 - Personality: This section gives a brief overview of the dog's temperament and personality.
 - Living With: This section tells the requirements and needs of the dog.
 - History: In this section, it gives a background on the history and achievements of the breed.
-
+![Useful links Boxes](/assets/images/images-readme.md/links-boxes.png)
 __Useful links Boxes__
 - In this section of the main page there are five useful link boxes.
  - They consist of:
   - [Training your boxer dog](https://www.petassure.com/new-newsletters/tips-for-training-your-pet-boxer/) A useful link with Tips For Training Your Pet Boxer.
   - [Boxer dog food and nutrition](https://www.dogfoodadvisor.com/best-dog-foods/boxers/) With the best advice on food and nutrition for your boxer dog be it young or old.
   -[Boxer dog exercise needs](https://barkercise.com/boxer-dog-exercise-guide/) This link has great advice on the exercise needs of your boxer dog.
-
+![The Footer](/assets/images/images-readme.md/footer.png)
 __The Footer__ 
 - The footer consists of three social media links, consisting of Facebook, Twitter, and Instagram.
 As stated in the user stories it is an added bonus to have the ability to stay connected on other platforms.
- 
+ ![Gallery](/assets/images/images-readme.md/main-gallery.png)
 __Gallery__
 - On this page, I have put eight images depicting the different characteristics of the breed and the different color types, As stated in the user stories it is great to see gallery images of this breed of dog in its natural playful temperament. 
-
+![Sign Up Page](/assets/images/images-readme.md/signup-page-image.png)
 __The Sign Up Page__
 - On this page, I have a background picture of a boxer dog and to the left, I have a sign up for a news letterbox, In this box, you will find a name and email text box area, With a required fill for both. The subscribe button has also a hover effect. As stated in the user stories the ability to sign up for newsletters is an added bonus to anyone who may be thinking of getting one of these breeds of dogs.
 
@@ -62,9 +62,9 @@ __The Sign Up Page__
 ### Validator Testing 
 - HTML
   - No errors were returned when passing through the official [W3C validator]
-  - [home page]
-  - [gallery page]
-  - [sign up page]
+  - ![home page](/assets/images/images-readme.md/html-validation.png)
+  - ![gallery page](/assets/images/images-readme.md/gallery-validation.png)
+  - ![sign up page](/images/images-readme.md/signup-validation.png)
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]
