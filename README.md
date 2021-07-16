@@ -1,7 +1,7 @@
 # Irl-Boxerdogs.ie
-/workspace/First-Project/assets/images/main-page-image1.png
+
 __Description__
-this website is for people who have or are thinking of owning a boxer dog,
+This website is for people who have or are thinking of owning a boxer dog,
 the site gives tricks and tips for training your pet and also useful information about the breed
 and helpful links,
 
@@ -12,7 +12,7 @@ and helpful links,
 __Navigation Bar__
 - Featured on all three pages, the full responsive navigation bar includes links to the Home page, Gallery, and Sign Up page and is identical on each page to allow for easy navigation.
 
-- This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back button. 
+- This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back button. As specified in the user sotorys.
 
 ##### User stories
 1. As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
@@ -27,7 +27,7 @@ __The landing page image__
 - The main landing image consists of an image with five boxer puppies, the image has a white background that contrasts well with the navigation bar and main title, it has a clean, pleasant, simplistic look.
 
 __information on boxer dogs__
-- The information on boxer dogs section I have four information sections with four images to break up the headings and text.
+- The information on boxer dogs section I have four information sections with four images to break up the headings and text, As mentioned in the user storys it covers temperament, exercise and history of the breed.
 - The sections consist of:
 - Boxers are stocky, muscular, and powerful: In this section, it gives a physical description and weight characteristics of the breed and its features that make them so distinctive. 
 - Personality: This section gives a brief overview of the dog's temperament and personality.
@@ -52,7 +52,7 @@ __The Sign Up Page__
 - On this page, I have a background picture of a boxer dog and to the left, I have a sign up for a news letterbox, In this box, you will find a name and email text box area, With a required fill for both. The subscribe button has also a hover effect. As stated in the user stories the ability to sign up for newsletters is an added bonus to anyone who may be thinking of getting one of these breeds of dogs.
 
 ### Features Left to Implement
-- In the future, I would like to add a forum page where open discussions and connections can be made it breeders and owners.
+- In the future, I would like to add a forum page where open discussions and connections can be made with breeders and owners.
 
 ## Testing
 - My testing was done regularly true out, I used the google chrome dev tool and found it a very useful resource to be able to change the values and see the result in real-time. I also used the google mobile-friendly test to check the responsiveness of the site on multiple devices.  
@@ -62,9 +62,9 @@ __The Sign Up Page__
 ### Validator Testing 
 - HTML
   - No errors were returned when passing through the official [W3C validator]
-  -[home page]
-  -[gallery page]
-  -[sign up page]
+  - [home page]
+  - [gallery page]
+  - [sign up page]
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]

@@ -95,6 +95,12 @@ i.far.fa-clipboard {
   font-size: 25px;
   padding-right: 20px;
 }
+#info h3 {
+  margin-bottom: 30px;
+}
+#info p {
+  margin-bottom: 40px;
+}
 /* helpfull links boxes*/
 #links-boxs-heading {
   padding-left: 25px;
@@ -229,6 +235,7 @@ footer {
     width: 100%;
     text-align: center;
   }
+
   #photo {
     column-count: 2;
   }
@@ -237,7 +244,13 @@ footer {
 /*screens sizes from 800px wide and down */
 @media screen and (max-width: 800px) {
   #photo {
-    column-count: 1;
+    column-count: 1; 
+  }
+}
+/*screens sizes from 550px wide and down */
+@media screen and (max-width: 550px){
+  #action_page {
+    margin-left: 50px;
   }
 }
 /** sign up box **/
