@@ -1,5 +1,5 @@
 # Irl-Boxerdogs.ie
-![main page image](/workspace/First-Project/assets/images/images-readme.md/main-page-image1.png)
+![main page image](/assets/images/images-readme.md/main-page-image1.png)
 __Description__
 This website is for people who have or are thinking of owning a boxer dog,
 the site gives tricks and tips for training your pet and also useful information about the breed
