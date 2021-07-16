@@ -54,29 +54,32 @@ header li {
   justify-content: center;
   display: flex;
 }
+header li i {
+  margin-right: 10px;
+}
 
 /* navigation links*/
-#menu {
+.menu {
   font-size: 100%;
   letter-spacing: 4px;
 }
-#menu li {
+.menu li {
   list-style-type: none;
   float: right;
   margin-left: 30px;
 }
-#menu a {
+.menu a {
   color: rgba(49, 186, 228, 0.7);
   text-align: center;
-  padding: 14px 16px;
-  font-size: 25px;
+  padding: 14px;
+  font-size: 20px;
   font-weight: bold;
 }
-#menu,
+.menu,
 #logo {
   line-height: 80px;
 }
-#menu a:hover {
+.menu a:hover {
   background-color: rgb(168, 166, 166);
   color: white;
 }
@@ -84,13 +87,13 @@ header li {
   border-bottom: 3px solid rgb(168, 166, 166);
 }
 i.fas.fa-home {
-  font-size: x-large;
+  font-size: large;
 }
 i.far.fa-image {
-  font-size: x-large;
+  font-size: large;
 }
 i.far.fa-clipboard {
-  font-size: x-large;
+  font-size: large;
 }
 /* main page image */
 #main-outer {
@@ -215,7 +218,7 @@ footer {
 @media screen and (max-width: 1200px) {
   #main-outer {
     width: 65%;
-    height: 1200px;
+    height: 900px;
     margin: 0 auto;
   }
 
@@ -239,7 +242,7 @@ footer {
 
 /*screens sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
-  #menu {
+  .menu {
     clear: left;
     float: left;
     margin-left: 30px;
@@ -253,7 +256,7 @@ footer {
 
   #main-outer {
     width: 90%;
-    height: 1200px;
+    height: 900px;
     margin: 0 auto;
   }
 
@@ -270,21 +273,8 @@ footer {
     column-count: 2;
   }
 }
-
-/*screens sizes from 800px wide and down */
-@media screen and (max-width: 800px) {
-  #photo {
-    column-count: 1; 
-  }
-}
-
-@media screen and (max-width: 550px){
-  #action_page {
-    margin-left: 10px;
-  }
-}
-/*screens sizes from 538px wide and down */
-@media screen and (max-width: 538px) {
+/*screens sizes from 920px wide and down */
+@media screen and (max-width: 920px) {
   header {
     flex-direction: column;
   }
@@ -296,6 +286,20 @@ footer {
   }
   header li {
     margin: 10px;
+  }
+}
+/*screens sizes from 800px wide and down */
+@media screen and (max-width: 800px) {
+  #photo {
+    column-count: 1; 
+  }
+}
+@media screen and (max-width: 550px){
+  #action_page {
+    margin-left: 10px;
+  }
+  #photo {
+    padding-left: 25px;
   }
 }
 /** sign up box **/
