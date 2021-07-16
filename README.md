@@ -22,7 +22,7 @@ __Navigation Bar__
 5. As a potential owner of boxer I would like to receive a newsletter and would hope to see a signup page.
 6. as a frequent user of the site I would like to see social media links so I can keep up to date on other platforms.
  
-
+![landing page image](/assets/images/images-readme.md/main-landing-image.jpg)
 __The landing page image__
 - The main landing image consists of an image with five boxer puppies, the image has a white background that contrasts well with the navigation bar and main title, it has a clean, pleasant, simplistic look.
 ![information on boxer dogs image](/assets/images/images-readme.md/main-info-section.png)
@@ -64,7 +64,7 @@ __The Sign Up Page__
   - No errors were returned when passing through the official [W3C validator]
   - ![home page](/assets/images/images-readme.md/html-validation.png)
   - ![gallery page](/assets/images/images-readme.md/gallery-validation.png)
-  - ![sign up page](/images/images-readme.md/signup-validation.png)
+  - ![sign up page](/assets/images/images-readme.md/signup-validation.png)
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]
