@@ -6,6 +6,7 @@ the site gives tricks and tips for training your pet and also useful information
 and helpful links,
 
 ## Features 
+- This website will contain three pages. To keep uniformity, I will be keeping the headers and footers of each page the same with the same functionality.  Functional links guide around the site to make navigation easy for the user.
 
 ### Existing Features
 
@@ -62,7 +63,7 @@ __The Sign Up Page__
 
 ## Testing
 - My testing was done regularly true out, I used the google chrome dev tool and found it a very useful resource to be able to change the values and see the result in real-time. I also used the google mobile-friendly test to check the responsiveness of the site on multiple devices.  
-
+![mobile frendly test](/assets/images/images-readme.md/responsiveness-test.png)
 ## bugs 
 
 ### Validator Testing 
@@ -86,7 +87,7 @@ __The Sign Up Page__
 The live link can be found here - https://github.com/nuggie86/First-Project
 
 ## Credits 
-
+- I would like to give credit to Kasia and my mentor Miguel, This has only have been possible with their guidance, support, and positivity throughout, I would also like the give credit to all the very helpful members on slack.
 ### Content
 - The text and information on the home page was acquired from [Hillspet.com](https://www.hillspet.com/dog-care/dog-breeds/boxer)
 - The Facebook, Twitter, and Instagram icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
@@ -97,4 +98,6 @@ The live link can be found here - https://github.com/nuggie86/First-Project
 
 ### Media
 - The photos I used on the home and sign-up page are from (www.borrdpanda.com), I also used photos from this site for the gallery page.
-
+- The text and information on the home page was acquired from [Hillspet.com](https://www.hillspet.com/dog-care/dog-breeds/boxer)
+- w3schools.com for its helpful tips.
+- stack overflow for hint and tips .
