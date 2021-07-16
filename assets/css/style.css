@@ -71,7 +71,7 @@ header li i {
 .menu a {
   color: rgba(49, 186, 228, 0.7);
   text-align: center;
-  padding: 14px;
+  padding: 5px;
   font-size: 20px;
   font-weight: bold;
 }
@@ -186,6 +186,7 @@ footer {
 /* Gallery Photos */
 .gallery-heading {
   font-size: 20px;
+  margin-left: 10px;
 }
 .heading-line {
   width: 50%;
