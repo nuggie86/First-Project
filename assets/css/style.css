@@ -25,6 +25,12 @@ h2 {
   background-color: rgb(255, 255, 255);
   font-size: 40px;
 }
+/*header*/
+header {
+  width: 100%;
+  display: flex;
+}
+
 /* navigation links*/
 #menu {
   font-size: 100%;
@@ -250,7 +256,7 @@ footer {
 /*screens sizes from 550px wide and down */
 @media screen and (max-width: 550px){
   #action_page {
-    margin-left: 50px;
+    margin-left: 10px;
   }
 }
 /** sign up box **/
